@@ -1,0 +1,294 @@
+body{
+    background-color: beige;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+nav{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    height: 150px;
+    color: whitesmoke;
+
+}
+
+.portapic{
+    height: 100%;
+    width: auto;
+}
+
+.userDetails {
+    background-color: forestgreen;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 0px 15px;
+    flex-wrap: 2;
+}
+
+.userDetails h1{
+    margin: 0;
+    font-size: 100px;
+}
+
+.home{
+    background-color:darkcyan;
+    height: 100px;
+    width: 100px;
+
+
+}
+
+.Computo1{
+    background-color:darkkhaki;
+    height: 100px;
+    width: 100px;
+}
+
+.Computo2{
+    background-color: darkgoldenrod;
+    height: 100px;
+    width: 100px;
+}
+
+.Computo3{
+    background-color: darkgrey;
+    height: 100px;
+    width: 100px;
+}
+
+
+
+.home, 
+.Computo1, 
+.Computo2,
+.Computo3{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.Conclusion{
+    background-color: fuchsia;
+    height: 100px;
+    width: 1180px;
+    position: relative;
+    bottom: -450px;
+}
+
+.semana1{
+    background-color: bisque;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -420px;
+    left: 160px;
+}
+
+.semana2{
+    background-color:cadetblue;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -720px;
+    left: 160px;
+}
+
+.semana3{
+    background-color:cadetblue;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -1850px;
+    left: 160px;
+}
+
+.semana4{
+    background-color:darkgrey;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -3050px;
+    left: 160px;
+}
+
+.semana5{
+    background-color:darkmagenta;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -3380px;
+    left: 160px;
+}
+
+.semana6{
+    background-color:cadetblue;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -3780px;
+    left: 160px;
+}
+
+.semana7{
+    background-color:greenyellow;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -4125px;
+    left: 160px;
+}
+
+.semana8{
+    background-color:honeydew;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -420px;
+    left: 160px;
+}
+
+.semana9{
+    background-color:cadetblue;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -800px;
+    left: 160px;
+}
+
+.semana10{
+    background-color:lightskyblue;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -1350px;
+    left: 160px;
+}
+
+.semana11{
+    background-color:darkgrey;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -1800px;
+    left: 160px;
+}
+
+.semana12{
+    background-color:sienna;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -2500px;
+    left: 160px;
+}
+
+.semana13{
+    background-color:cadetblue;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -2680px;
+    left: 160px;
+}
+
+.semana14{
+    background-color:olive;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -3225px;
+    left: 160px;
+}
+
+.semana15{
+    background-color: aqua;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -3825px;
+    left: 160px;
+}
+
+.semana17{
+    background-color:blue;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -720px;
+    left: 160px;
+}
+
+.semana18{
+    background-color:brown;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -1000px;
+    left: 160px;
+}
+
+.semana19{
+    background-color:darkgrey;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -1900px;
+    left: 160px;
+}
+
+.semana20{
+    background-color:cornflowerblue;
+    height: 100px;
+    width: 1180px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: -2300px;
+    left: 160px;
+}
